@@ -1,0 +1,19 @@
+Convert below decimals in to binary:
+65 - 1000001
+256 - 100000000
+65,256 - 1111111011101000
+
+Convert below decimals in to binary:
+100010 - 34
+10000000 - 128
+1011 - 13
+
+Write your first name as ASCII numbers:
+Radhika
+R - 82 - 1010010
+A - 97 - 1100001
+D - 100 - 1100100
+H - 104 - 1101000
+I - 105 - 1101001
+K - 107 - 1101011
+A - 97 - 1100001
