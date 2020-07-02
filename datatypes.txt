@@ -1,0 +1,5 @@
+datatype int; Example 3
+datatype String; Example "This is a string"
+datatype char; Example "a"
+Datatype Float; Example 1.25
+Datatype boolean; Example true or false
