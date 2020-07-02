@@ -6,10 +6,17 @@ public class MyWorld {
 		String name = "My Name is Radhika";
 		System.out.println("Name: " + name);
 		int a, b;
-		a = 100;
-		b = 100;
+		a = 10;
+		b = 10;
 		int x = a +b ;
-		System.out.println("Value of x: "+ x);
+		int y = x+10;
+		int z = a * 2;
+		int m = a * 3;
+		System.out.println("Value of y: "+ y);
+		System.out.println("Value of x:"+ x);
+		System.out.println("Value of y: "+ y);
+		
+		System.out.println("Value of m: "+ m);
 		boolean flag;
 		
 		if (x == 200) {
