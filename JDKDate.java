@@ -1,8 +1,15 @@
 import java.time.format.*;
 import java.time.*;
+import java.util.*;
+
 public class JDKDate {
 
 	public static void main(String[] args) {
+		
+		Date dt = new Date();
+		
+		
+		System.out.println("Today's time with time component: "+dt.toString());
 
 		LocalDate now = LocalDate.now();
 		DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm:ss");  
