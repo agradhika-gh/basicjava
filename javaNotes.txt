@@ -1,0 +1,6 @@
+Encapsulation:
+--Group related data, methods in a class
+--Hiding the details using private method
+
+Multiple class can be grouped with the package
+Using JDK
